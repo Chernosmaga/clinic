@@ -4,7 +4,7 @@
 Java 17, Spring, Lombok, PostgreSQL, Spring Data JPA и Hibernate
 
 ## База данных
-
+![](https://github.com/Chernosmaga/clinic/blob/master/src/main/resources/clinic.png)
 
 ## Техническое задание
 
